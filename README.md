@@ -55,7 +55,7 @@ Install my-project with npm
 </div>
 
 
-
+<div align="center">
 [![GitHub Streak](https://streak-stats.demolab.com/?user=alfarizibonted)](https://git.io/streak-stats)
 
 
