@@ -41,12 +41,6 @@ Install my-project with npm
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
-</div>
-
-###
-
 <h1 align="center">hey there 👋</h1>
 
 ###
@@ -109,4 +103,10 @@ Install my-project with npm
 
 <div align="center">Author</h3>
   
-- [Muhammad Alfarizi](https://www.github.com/alfarizibonted)
+[Muhammad Alfarizi](https://www.github.com/alfarizibonted)
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+</div>
