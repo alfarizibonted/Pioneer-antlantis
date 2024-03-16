@@ -1,9 +1,17 @@
-# Pioneer Atlantis
+####
+
+<h1 align="center">PIONER ATLANTIS</h1>
 
 A brief description of what this project does and who it's for
 
 
-## Muhammad Alfarizi
+##
+
+<h1 align="center">by</h1>
+
+####
+
+<h1 align="center">MUHAMMAD ALFARIZI</h1>
 
 ## Feedback
 
