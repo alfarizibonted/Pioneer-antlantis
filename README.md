@@ -106,4 +106,5 @@ Install my-project with npm
 ###
 
 <div align="center">Author</h3>
+  
 - [Muhammad Alfarizi](https://www.github.com/alfarizibonted)
