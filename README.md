@@ -1,7 +1,13 @@
+# Pioneer Atlantis
+
+A brief description of what this project does and who it's for
+
+
+## Muhammad Alfarizi
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS...
+Javascript, HTML, CSS, NPM, Photoshop, Design. etc.
 
 
 ## Installation
