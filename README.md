@@ -5,6 +5,10 @@ A brief description of what this project does and who it's for
 
 ## Muhammad Alfarizi
 
+## Feedback
+
+If you have any feedback, please reach out to us at alfarizi.bonted@gmail.com
+
 
 ## 🛠 Skills
 Javascript, HTML, CSS, NPM, Photoshop, Design. etc.
