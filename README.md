@@ -22,4 +22,4 @@ Install my-project with npm
 
 ## Authors
 
-- [@octokatherine](https://www.github.com/alfarizibonted)
+- [Muhammad Alfarizi](https://www.github.com/alfarizibonted)
