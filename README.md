@@ -18,3 +18,8 @@ Install my-project with npm
   npm install my-project
   cd my-project
 ```
+
+
+## Authors
+
+- [@octokatherine](https://www.github.com/alfarizibonted)
