@@ -1,9 +1,6 @@
 ####
 
-<h1 align="center">PIONER ATLANTIS</h1>
-
-A brief description of what this project does and who it's for
-
+<h1 align="center">PIONEER ATLANTIS</h1>
 
 ##
 
@@ -12,6 +9,8 @@ A brief description of what this project does and who it's for
 ####
 
 <h1 align="center">MUHAMMAD ALFARIZI</h1>
+
+A brief description of what this project does and who it's for
 
 ## Feedback
 
@@ -27,8 +26,8 @@ Javascript, HTML, CSS, NPM, Photoshop, Design. etc.
 Install my-project with npm
 
 ```bash
-  npm install my-project
-  cd my-project
+  npm install pioneer-atlantis
+  cd fold-poineeratlantis
 ```
 
 
