@@ -56,14 +56,16 @@ Install my-project with npm
 
 
 <div align="center">
-[![GitHub Streak](https://streak-stats.demolab.com/?user=alfarizibonted)](https://git.io/streak-stats)
+  [GitHub Streak](https://streak-stats.demolab.com/?user=alfarizibonted)](https://git.io/streak-stats)
 
 
 
 
 ###
 
-<div align="center">Author</h3>[Muhammad Alfarizi](https://www.github.com/alfarizibonted)
+<div align="center">Author</h3>
+  
+  [Muhammad Alfarizi](https://www.github.com/alfarizibonted)
 
 ###
 
