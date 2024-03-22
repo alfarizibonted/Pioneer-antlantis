@@ -1,6 +1,6 @@
 {
   "name": "fold-pioneeratlantis",
-  "version": "1.1.5",
+  "version": "1.1.6",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -33,12 +33,12 @@
   "main": "postcss.config.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/alfarizibonted/Pioneer-atlantis"
+    "url": "https://github.com/alfarizibonted/Pioneer-antlantis"
   },
   "author": "Muhammad Alfarizi",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/alfarizibonted/Pioneer-atlantis/issues"
+    "url": "https://github.com/alfarizibonted/Pioneer-antlantis/issues"
   },
-  "homepage": "https://github.com/alfarizibonted/Pioneer-atlantis#readme"
+  "homepage": "https://github.com/alfarizibonted/Pioneer-antlantis#readme"
 }
